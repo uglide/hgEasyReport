@@ -1,0 +1,6 @@
+#test hg repo
+test_repo
+pack
+
+#phpstorm project folder
+.idea
